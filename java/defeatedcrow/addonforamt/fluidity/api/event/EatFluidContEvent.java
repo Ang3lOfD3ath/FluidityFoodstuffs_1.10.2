@@ -1,11 +1,11 @@
 package defeatedcrow.addonforamt.fluidity.api.event;
 
-import net.minecraftforge.event.entity.player.*;
-import net.minecraftforge.fml.common.eventhandler.*;
-import net.minecraft.item.*;
-import net.minecraft.world.*;
-import net.minecraftforge.fluids.*;
-import net.minecraft.entity.player.*;
+import net.minecraftforge.event.entity.player;
+import net.minecraftforge.fml.common.eventhandler;
+import net.minecraft.item;
+import net.minecraft.world;
+import net.minecraftforge.fluids;
+import net.minecraft.entity.player;
 
 @Cancelable
 @Event.HasResult
